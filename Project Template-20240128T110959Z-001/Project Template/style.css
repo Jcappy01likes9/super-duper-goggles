@@ -1,0 +1,53 @@
+.copy_right_footer{
+    position: fixed ;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+body{
+    background-image:linear-gradient(#a9927d,#d8e3d7,#6987c9,#2f2d2e );
+}
+
+h1{
+  font-family:"Honk";  
+}
+
+h4{
+    font-family: cursive;
+}
+
+#camera{
+ width: 500px;
+ height: 400px;
+}
+
+#result1{
+    width: 30%;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+
+#result2{
+    width: 30%;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+
+#result3{
+    width: 30%;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+
+img:hover{
+    border-radius: 140px;
+}
+
+.column{
+   display: inline;
+   padding:10px;
+}
